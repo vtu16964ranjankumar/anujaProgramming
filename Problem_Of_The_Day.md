@@ -1,4 +1,4 @@
-# Problem Of The Day
+# PROBLEM OF THE DAY
 
 ##### Topic: If-else statement
 #### Question:
