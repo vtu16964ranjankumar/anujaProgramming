@@ -12,7 +12,7 @@
 #### Rule:
 * *Daily ek question ko solve krna h.*
 * *Daily ek question upload ho jayega at 00:00:00 hrs.*
-* *Agle din ke 00:00:00 hrs se pahle question solve ho jana chahiye.*
+* *Agle din ke 00:00:00 hrs se pahle question solve krna aniwarya h.*
 
 
-                                                ### Happy Coding ###
+                                                            ### Happy Coding ###
