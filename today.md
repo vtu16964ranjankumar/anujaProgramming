@@ -1,7 +1,7 @@
 ># PROBLEM OF THE DAY
 ###### Topic: If-else statement 
 
-Notice: loop question will start from tomorrow
+Notice: This is the last question of if-else topic and loop question will start from tomorrow
 
 ---------
 
