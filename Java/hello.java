@@ -4,8 +4,6 @@ public class hello{
         System.out.println("Hello, This is my first Java program");
         System.out.println("Hello, This is my first Java program");
         System.out.println("Hello, This is my first Java program");
-        System.out.println("Hello, This is my first Java program");
-        System.out.println("Hello, This is my first Java program");
-        System.out.println("Hello, This is my first Java program");
+        
     }
 }

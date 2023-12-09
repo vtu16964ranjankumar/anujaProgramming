@@ -1,5 +1,7 @@
 ># PROBLEM OF THE DAY
-###### Topic: Loop Statement
+###### Topic: If-else statement 
+
+Notice: loop question will start from tomorrow
 
 ---------
 
