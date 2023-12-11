@@ -4,7 +4,7 @@ public class alphabets {
     Scanner sc = new Scanner(System.in);
     char ch = sc.next().charAt(0);
 
-    for(ch='a'; ch<='z'; ch++){
+    for(ch=ch; ch<='z'; ch++){
         System.out.print(ch+",");
     }
     

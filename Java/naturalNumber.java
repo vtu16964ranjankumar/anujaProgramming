@@ -2,7 +2,7 @@ import java.util.*;
 
 public class naturalNumber {
     public static void main(String []args){
-      try (Scanner sc = new Scanner(System.in)) {
+      Scanner sc = new Scanner(System.in);
         int n =sc.nextInt();
           
         System.out.println("Input Number:"+ n);
@@ -14,4 +14,4 @@ public class naturalNumber {
         }
       }
     }
-}
+
