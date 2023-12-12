@@ -23,14 +23,13 @@ Write a java program to print all even numbers from 1 to n using for loop
 **Input**
 Input upper range: 10
 **Output**
-Natural numbers from 10-1 in reverse: 
 Even numbers between 1 to 10:
 2, 4, 6, 8, 10
 
 -------------
 
 #### Question 3:
-Write a C program to print all odd numbers from 1 to n using for loop.
+Write a java program to print all odd numbers from 1 to n using for loop.
 
 **Example**
 
@@ -43,7 +42,7 @@ Odd numbers between 1 to 10:
 -------------
 
 #### Question 4:
-Write a C program to find the sum of all natural numbers between 1 to n using for loop.
+Write a javaa program to find the sum of all natural numbers between 1 to n using for loop.
 
 **Example**
 
@@ -55,7 +54,7 @@ Sum of natural numbers 1-10: 55
 -------------
 
 #### Question 5:
-Write a C program to input number from user and find sum of all even numbers between 1 to n using for loop.
+Write a java program to input number from user and find sum of all even numbers between 1 to n using for loop.
 
 **Example**
 
@@ -67,7 +66,7 @@ Sum of even numbers between 1 to 10: 30
 -------------
 
 #### Question 6:
-Write a C program to find sum of all odd numbers from 1 to n using for loop.
+Write a java program to find sum of all odd numbers from 1 to n using for loop.
 
 **Example**
 
