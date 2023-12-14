@@ -10,7 +10,7 @@ public class naturalNumber {
         for( int i=1; i<=n; i++){
          }
          int s=n*(n+1)/2;
-          System.out.println("Sum of Natural number from 1 to "+n+ " 6: "+ s );
+          System.out.println("Sum of Natural number from 1 to "+n+ " : "+ s );
   
       }
     }

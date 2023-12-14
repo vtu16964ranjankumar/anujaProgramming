@@ -6,13 +6,13 @@ public class sumOddNumber {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int i;
-        System.out.println(" Sum of Odd Number is:");
+        System.out.println(" Sum of Odd Number :");
 
         int c = n*n;
         for(  i=1; i<=n;i++){
-                 }
-      
-        System.out.println(c);
+              
+        }      
+              System.out.println(c);
        }
 
     
