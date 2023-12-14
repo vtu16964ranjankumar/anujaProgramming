@@ -1,12 +1,14 @@
-import java.util.*;
-public class evenNumber {
+
+    import java.util.*;
+
+public class sumOddNumber {
     public static void main(String []args){
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int i;
-        System.out.println(" Sum of Even Number is:");
+        System.out.println(" Sum of Odd Number is:");
 
-        int c = n*(n+1);
+        int c = n*n;
         for(  i=1; i<=n;i++){
                  }
       
@@ -15,3 +17,6 @@ public class evenNumber {
 
     
 }
+
+    
+

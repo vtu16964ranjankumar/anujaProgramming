@@ -6,12 +6,12 @@ public class naturalNumber {
         int n =sc.nextInt();
           
         System.out.println("Input Number:"+ n);
-        System.out.println(" Natural number from 1 to "+ n +":");
-  
+        
         for( int i=1; i<=n; i++){
-          System.out.print( i +",");
-
-        }
+         }
+         int s=n*(n+1)/2;
+          System.out.println("Sum of Natural number from 1 to "+n+ " 6: "+ s );
+  
       }
     }
 
