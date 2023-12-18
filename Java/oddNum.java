@@ -6,7 +6,7 @@ public class oddNum {
             Scanner sc=new Scanner(System.in);
             int n=sc.nextInt();
 
-            System.out.println("Odd number is btw 1 to "+n+":9");
+            System.out.println("Odd number is btw 1 to "+n+":");
 
             for(i=1;i<=n;i=i+2){
                 sum=sum+i;
