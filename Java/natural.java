@@ -11,7 +11,7 @@ public static void main(String []args){
         System.out.println(i);
         sum=sum+i;
     }
-    System.out.println("Sum of natural Number :"+sum);
+    System.out.println("Sum of natural Number  is :"+sum);
 
 }
 }
